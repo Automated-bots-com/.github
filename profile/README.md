@@ -1,4 +1,4 @@
-# Automated-Bots - www.automated-bots.com
+# [Automated-Bots](www.automated-bots.com)
 
 [![Automated-Bots Social Banner](https://github.com/Automated-bots-com/.github/assets/34207598/61a7411d-6a75-402b-80da-74c09bd7dd4c)](https://www.automated-bots.com/)
 
